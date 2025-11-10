@@ -22,7 +22,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-f38020)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zqq-nuli/Cloudflare-Navihive)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/gufong20201001/Cloudflare-Navihive)
 
 </div>
 
